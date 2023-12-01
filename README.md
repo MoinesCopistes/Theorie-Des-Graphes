@@ -82,6 +82,6 @@ Rien de plus simple, il suffit de se rendre sur [le site](https://maxdeboeck.git
 
 Toutes les contributions sont les bienvenues, qu'elles soient petites ou grandes. ***Il ne faut pas s'y connaître en Rust/mdBook/développement web pour contribuer, il suffit d'avoir un éditeur markdown/Latex (je recommande [Obsidian](https://obsidian.md/) avec l'extension [Latex Suite](https://github.com/artisticat1/obsidian-latex-suite)) et de savoir utiliser git.***
 
-Essayer de suivre la mise en page utilisée dans le projet. Si vous avez des questions, n'hésitez pas à ouvrir une issue pour demander.
+Essayez de suivre la mise en page utilisée dans le projet. Si vous avez des questions, n'hésitez pas à ouvrir une issue pour demander.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
