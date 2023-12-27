@@ -15,7 +15,7 @@
   <p align="center">
     Un livre web en markdown + LaTeX pour la théorie des graphes
     <br />
-    <a href="https://maxdeboeck.github.io/TheorieDesGraphes/"><strong>Trouvez-le ici</strong></a>
+    <a href="https://moinescopistes.github.io/Theorie-Des-Graphes"><strong>Trouvez-le ici</strong></a>
     <br />
     <br />
     <a href="https://github.com/maxdeboeck/TheorieDesGraphes/issues">Report Bug</a>
